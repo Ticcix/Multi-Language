@@ -6,9 +6,9 @@ Multi-language 1.0 Datalife Engine
 ვერსია: 10.X 11.X
 შიგთავსი: Javascript , PHP
 
-დაყენება: 
--1: შექმენით თქვენთვის სასურველი ენის დიზაინი
--2: გახსენით ფაილი .htaccess  'RewriteEngine On' ქვემოთ  მოათავსეთ  
+დაყენება:<br>
+1: შექმენით თქვენთვის სასურველი ენის დიზაინი  <br>
+2: გახსენით ფაილი .htaccess  'RewriteEngine On' ქვემოთ  მოათავსეთ  
 -RewriteRule ^eng/$index.php?/index.php?action_skin_change=yes&skin_name=eng[L] <br>
 -RewriteRule ^rus/$index.php?/index.php?action_skin_change=yes&skin_name=rus[L] <br>
 -RewriteRule ^geo/$index.php?/index.php?action_skin_change=yes&skin_name=geo[L] 

@@ -26,6 +26,6 @@ rus - eng - geo - თქვენი დიზაინის სახელი
 - fullstory-rus : სრული-აღწერა რუსულად
 
 სასურველ ადგილას მოათავსეთ:
-- <a href="/eng/" > English </a>
-- <a href="/rus/" > Russian </a>
-- <a href="/geo/" > Georgian </a>
+- `<a href="/eng/" > English </a>`
+- `<a href="/rus/" > Russian </a>`
+- `<a href="/geo/" > Georgian </a>`
